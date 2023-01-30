@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to develop games in unity.
 - 👯 I’m looking to collaborate with other game developer.
 - 💬 Ask me about anything
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: Her
 
 <br />
