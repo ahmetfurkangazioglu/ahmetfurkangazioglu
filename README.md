@@ -3,15 +3,6 @@ This is the place where I opensource stuff and break things :rofl:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Programming
-- 🌱 I’m currently learning how to develop games in unity.
-- 👯 I’m looking to collaborate with other game developer.
-- 💬 Ask me about anything
-- 📫 How to reach me: Linkedin
-- 😄 Pronouns: Her
-
 <br />
 <br />
 
